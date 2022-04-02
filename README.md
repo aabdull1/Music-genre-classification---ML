@@ -17,3 +17,7 @@ Mellifluous Myna is a machine learning project with an initial aim of creating a
 - [ ] Create program to calculate audio features
 - [ ] Test program for music excerpts and test calculated features with genre classifier
 - [ ] Create documentation
+
+## References
+
+[https://developer.spotify.com/documentation/web-api/reference/#/](Spotify API Documentation)
