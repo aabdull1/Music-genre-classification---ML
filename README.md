@@ -20,4 +20,4 @@ Mellifluous Myna is a machine learning project with an initial aim of creating a
 
 ## References
 
-[https://developer.spotify.com/documentation/web-api/reference/#/](Spotify API Documentation)
+[Spotify API Documentation](https://developer.spotify.com/documentation/web-api/reference/#/)
