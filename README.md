@@ -6,7 +6,7 @@ Mellifluous Myna is a machine learning project with an initial aim of creating a
 
 ### Part 1
 
-- [ ] Generate audio feature dataset (Script is ready)
+- [x] Generate audio feature dataset (Script is ready)
 - [ ] Explore suitable classification algorithms (Nearest neighbor, DBSCAN, Random Forest, Neural Networks, etc.)
 - [ ] Create model for each algorithm
 - [ ] Test different algorithms and create statistical comparisons between each models
