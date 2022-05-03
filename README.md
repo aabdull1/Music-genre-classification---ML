@@ -7,7 +7,7 @@ Mellifluous Myna is a machine learning project with an initial aim of creating a
 ### Part 1
 
 - [x] Generate audio feature dataset (Script is ready)
-- [ ] Clean data set (In progress)
+- [x] Clean data set (Removed unnecessary features)
 - [ ] Select important features using Correlation matrix
 - [ ] Create stratified test train split of dataset
 
