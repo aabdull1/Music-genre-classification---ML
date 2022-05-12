@@ -32,7 +32,7 @@ Mellifluous Myna is a machine learning project with an initial aim of creating a
 
 - All `csv` files have been moved to data folder and corresponding paths in the notebook files have been updated.
 - The notebook names have been numbered in the order of execution.
-- Please add author notes and appropriate headings to each section of your code. This will give a general idea about what the following cells are supposed to do. (Refer to any of the noteboos 1 to 3 for an idea)
+- Please add author notes and appropriate headings to each section of your code. This will give a general idea about what the following cells are supposed to do. (Refer to any of the notebooks 1 to 3 for an idea)
 - Please document your code either using comments or markdown. Everybody codes in different styles and therefore it can be hard to read and understand others' code. Hence provide as much explanation as possible for each function/block of code.
 - General things to include in evaluation of all training model:
     + Cross validation accuracy
