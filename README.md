@@ -2,7 +2,7 @@
 
 Mellifluous Myna is a machine learning project with an initial aim of creating a model that classifies any music to a suitable genre based on its features. This project makes use of audio feature data from Spotify for training and testing the model.
 
-## First project status meeting is on 17-02-2022 at 16:15 HRS. Please join 5 minutes earlier.
+## First project status meeting is on 17-05-2022 at 16:15 HRS. Please join 5 minutes earlier.
 
 ## TODO
 
