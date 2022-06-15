@@ -1,0 +1,31 @@
+\begin{thebibliography}{1}
+
+\bibitem{feng2017music}
+Lin Feng, Shenlan Liu, and Jianing Yao.
+\newblock Music genre classification with paralleling recurrent convolutional
+  neural network.
+\newblock {\em arXiv preprint arXiv:1712.08370}, 2017.
+
+\bibitem{scikit-learn}
+F.~Pedregosa, G.~Varoquaux, A.~Gramfort, V.~Michel, B.~Thirion, O.~Grisel,
+  M.~Blondel, P.~Prettenhofer, R.~Weiss, V.~Dubourg, J.~Vanderplas, A.~Passos,
+  D.~Cournapeau, M.~Brucher, M.~Perrot, and E.~Duchesnay.
+\newblock Scikit-learn: Machine learning in {P}ython.
+\newblock {\em Journal of Machine Learning Research}, 12:2825--2830, 2011.
+
+\bibitem{spotify}
+Spotify web api.
+\newblock
+  \url{https://developer.spotify.com/documentation/web-api/reference/#/}.
+
+\bibitem{reback2020pandas}
+The pandas~development team.
+\newblock pandas-dev/pandas: Pandas, February 2020.
+
+\bibitem{geron2019hands}
+Aur{\'e}lien G{\'e}ron.
+\newblock {\em Hands-on machine learning with Scikit-Learn, Keras, and
+  TensorFlow: Concepts, tools, and techniques to build intelligent systems}.
+\newblock " O'Reilly Media, Inc.", 2019.
+
+\end{thebibliography}
