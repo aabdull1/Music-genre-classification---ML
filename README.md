@@ -12,19 +12,19 @@ Mellifluous Myna is a machine learning project with an initial aim of creating a
 - [x] Clean data set by removing unnecessary columns
 - [x] Select important features using Correlation matrix
 - [-] Create stratified test train split of dataset
-    - [ ] **(Arnova)** Include statistical evaluation of test and train split
+    - [x] **(Arnova)** Include statistical evaluation of test and train split
 - [-] Create and evaluate Decision Tree model
     - [ ] **(Serkan)** Combine the two notebooks `GenreClassifier_serkan.ipynb` and `GenreClassifier_2_serkan.ipynb` into a single one and rename it to `5_decision_tree.ipynb`
     - [ ] Add headings, comments and author notes and description
-- [ ] **(Arnova)** Create and evaluate Random Forest model 
+- [x] **(Arnova)** Create and evaluate Random Forest model 
 - [ ] **(Adnan)** Create and evaluate Logistic Regression model 
 - [ ] **(Soumya)** Create presentation for first status meeting 
 
 ### Future
 
-- [ ] Test the ML models
-- [ ] Create documentation/Report
-- [ ] Write paper
+- [x] Test the ML models
+- [x] Create documentation/Report
+- [x] Write paper
 
 ## Updates
 
